@@ -1,0 +1,10 @@
+F:\sahan BKP\C#\HmacGenValid\HmacGenValid\bin\Debug\netstandard2.0\HmacGenValid.deps.json
+F:\sahan BKP\C#\HmacGenValid\HmacGenValid\bin\Debug\netstandard2.0\HmacGenValid.dll
+F:\sahan BKP\C#\HmacGenValid\HmacGenValid\bin\Debug\netstandard2.0\HmacGenValid.pdb
+F:\sahan BKP\C#\HmacGenValid\HmacGenValid\obj\Debug\netstandard2.0\HmacGenValid.csproj.AssemblyReference.cache
+F:\sahan BKP\C#\HmacGenValid\HmacGenValid\obj\Debug\netstandard2.0\HmacGenValid.GeneratedMSBuildEditorConfig.editorconfig
+F:\sahan BKP\C#\HmacGenValid\HmacGenValid\obj\Debug\netstandard2.0\HmacGenValid.AssemblyInfoInputs.cache
+F:\sahan BKP\C#\HmacGenValid\HmacGenValid\obj\Debug\netstandard2.0\HmacGenValid.AssemblyInfo.cs
+F:\sahan BKP\C#\HmacGenValid\HmacGenValid\obj\Debug\netstandard2.0\HmacGenValid.csproj.CoreCompileInputs.cache
+F:\sahan BKP\C#\HmacGenValid\HmacGenValid\obj\Debug\netstandard2.0\HmacGenValid.dll
+F:\sahan BKP\C#\HmacGenValid\HmacGenValid\obj\Debug\netstandard2.0\HmacGenValid.pdb
